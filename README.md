@@ -4,7 +4,7 @@
 The website of this project is here. 
 
 ## Getting Started
-**Input:** A right click on the movie or show local folder, and select Send To > runner.cmd.
+**Input:** A right click on the movie or show local folder, and select **Send To > runner.cmd**.
 
 **Output:** Your default browser with the page of the selected movie or show. 
 
