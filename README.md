@@ -10,5 +10,5 @@ The website of this project is here.
 
 ## Built With
 - [urllib2](https://docs.python.org/2/library/urllib2.html) - For automatically opening URLs. 
-- [Webbroswer](https://docs.python.org/2/library/webbrowser.html) - A high-level interface to allow displaying Web-based documents to users.
+- [Webbrowser](https://docs.python.org/2/library/webbrowser.html) - A high-level interface to allow displaying Web-based documents to users.
 - [OMDb API](http://www.omdbapi.com/) - A RESTful web service to obtain content information on movies or TV shows. 
