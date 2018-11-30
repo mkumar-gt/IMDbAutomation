@@ -1,7 +1,7 @@
 # IMDb Automation
 **IMDb Automation** takes input as two clicks from the user and automatically redirects you to the IMDb page of the referred movie or TV show. All you need to do is to right-click on the movie folder which you have downloaded on your local desktop and select Send To > runner.cmd and the rest of the job is done by the Python script itself. 
 
-The website of this project is here. 
+The website of this project is [here](https://bidyutchanda.github.io/2018-11-30-imdb/). 
 
 ## Getting Started
 **Input:** A right click on the movie or show local folder, and select **Send To > runner.cmd**.
